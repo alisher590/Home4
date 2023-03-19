@@ -1,0 +1,15 @@
+/Users/aliser/Desktop/C#projeckt4/home3/bin/Debug/net6.0/home3
+/Users/aliser/Desktop/C#projeckt4/home3/bin/Debug/net6.0/home3.deps.json
+/Users/aliser/Desktop/C#projeckt4/home3/bin/Debug/net6.0/home3.runtimeconfig.json
+/Users/aliser/Desktop/C#projeckt4/home3/bin/Debug/net6.0/home3.dll
+/Users/aliser/Desktop/C#projeckt4/home3/bin/Debug/net6.0/home3.pdb
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.csproj.AssemblyReference.cache
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.AssemblyInfoInputs.cache
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.AssemblyInfo.cs
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.csproj.CoreCompileInputs.cache
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.dll
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/refint/home3.dll
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.pdb
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/home3.genruntimeconfig.cache
+/Users/aliser/Desktop/C#projeckt4/home3/obj/Debug/net6.0/ref/home3.dll
